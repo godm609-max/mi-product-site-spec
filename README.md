@@ -4,6 +4,18 @@
 
 技能入口：[SKILL.md](SKILL.md)。
 
+## 规范预览
+
+以下为来源规范板，包含尺寸标注与正确参考图。点击图片查看原图。
+
+**头图规范**：产品名称、slogan、logo 的字体层级、间距和安全区。
+
+[![头图规范：字体、间距、安全区与成品对照](references/source-images/S22.jpg)](references/source-images/S22.jpg)
+
+**图形 ICON 规范**：圆框尺寸、线宽、图形安全区、文案对齐和正文组合版式，附成品参考。
+
+[![图形 ICON 规范：尺寸、线宽、文案对齐与正文版式](references/source-images/S12.jpg)](references/source-images/S12.jpg)
+
 ## 安装
 
 在 Codex 中发送：
