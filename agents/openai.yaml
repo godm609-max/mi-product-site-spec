@@ -1,0 +1,3 @@
+interface:
+  display_name: "小米有品产品站设计规范"
+  short_description: "从47张原始规范图提炼产品站版式、组件数值与错误示范，支持设计生成和逐项校对"
